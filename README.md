@@ -1,5 +1,3 @@
-# useJDBCtoMySQL
-
 # JDBC连接MySQL数据库及自定义JDBCUtils
 # 前言
 `JDBC 指 Java 数据库连接，是一种标准Java应用编程接口（ JAVA API），用来连接 Java 编程语言和广泛的数据库。`
